@@ -22,6 +22,7 @@ export default function Items({ currentItems }) {
                   variant="top"
                   src={data.urlToImage}
                   style={{ width: "25rem" }}
+                  alt="http://via.placeholder.com/640x360"
                 />
               </div>
               <div>
